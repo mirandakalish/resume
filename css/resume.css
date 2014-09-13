@@ -1,6 +1,119 @@
-/*comments are different here yooooooooo be careful mamacita*/
-
 body {
-	background-color: #ccc;
-	margin: 0 20px;
+	background-color: #003366;
+	color: #003366;
+}
+
+.header {
+	color:#6699CC;
+	text-align:center;
+	font-size:20px;
+	margin-bottom:50px;
+	margin-top:20px;
+	font-family:Georgia;
+}
+
+.location-date {
+	float:right;
+	margin-top:-180px;
+	font-size:12px;
+}
+
+h3 {
+	color:#6699CC;
+	text-transform:uppercase;
+}
+
+a {
+	color:#C0C0C0;
+}
+
+h1 {
+	font-size:100px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-top: 50px;
+}
+
+p {
+	font-size:12px;
+}
+
+.stuy-ld {
+	margin-top:170px;
+}
+
+.harlem-ld {
+	margin-top:100px;
+}
+
+.USY {
+	margin-top:-75px;
+}
+
+.usy-ld {
+	margin-top:100px;
+}
+
+.Ramah {
+	margin-top:-75px;
+}
+
+.ramah-ld {
+	margin-top:100px;
+}
+
+.wsi-ld {
+	margin-top:100px;
+}
+
+.yearbook {
+	margin-top:-75px;
+}
+
+.yearbook-ld {
+	margin-top:130px;
+}
+
+.education {
+	background-color:#C0C0C0;
+	width:800px;
+	margin-left:285px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+	height:300px;
+}
+
+.Work-leadership {
+	background-color:#C0C0C0;
+	width:800px;
+	margin-top:40px;
+	margin-left:285px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+	height:430px;
+}
+
+.art-design {
+	background-color:#C0C0C0;
+	width:800px;
+	margin-top:40px;
+	margin-left:285px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+	height:265px;
+}
+
+.skills {
+	background-color:#C0C0C0;
+	width:800px;
+	margin-top:40px;
+	margin-left:285px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+	height:115px;
+	margin-bottom:40px;
 }
